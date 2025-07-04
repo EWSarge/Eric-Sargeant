@@ -289,3 +289,13 @@ font-size: 30px;
 
 }
 
+
+@media (max-width: 700px) {
+
+/* FOOTER */
+.footer-section {
+    padding: 0 20px;
+    font-size: 12px;
+    
+}
+}
