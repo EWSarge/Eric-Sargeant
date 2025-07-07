@@ -241,6 +241,19 @@ margin-top: 20px;
 .contact-section .group {
     flex-direction: column;
 }
+
+/* FOOTER */
+
+.contact-section .line {
+    max-width: 600px;
+    margin-top: 30px;
+}
+.footer-section {
+    padding: 0 20px;
+    font-size: 12px;
+    
+}
+
 }
 
 @media (max-width: 600px) {
@@ -290,17 +303,3 @@ font-size: 30px;
 }
 
 
-@media (max-width: 800px) {
-
-/* FOOTER */
-
-.contact-section .line {
-    max-width: 600px;
-    margin-top: 30px;
-}
-.footer-section {
-    padding: 0 20px;
-    font-size: 12px;
-    
-}
-}
